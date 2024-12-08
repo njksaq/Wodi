@@ -1,0 +1,37 @@
+button a {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px ;
+  color: black;
+  font-style: none;
+  font-display: none;
+}
+
+.aloita_nyt {
+  background-color: green;
+  color: white;
+  height: 60px;
+  width: 150px;
+  border-radius: 20px;
+  border: solid 1px;
+  
+}
+
+.aloita_nyt:hover {
+  opacity: 60%;
+  cursor: pointer;
+}
+
+
+.ota_yhteyttä { 
+  background-color: white;
+  color: green;
+  height: 60px;
+  width: 200px;
+  border-radius: 20px;
+border: solid 1px;
+}
+
+.ota_yhteyttä:hover {
+  opacity: 60%;
+  cursor: pointer;
+}
